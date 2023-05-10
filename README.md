@@ -76,3 +76,4 @@ Or Scan The QR code to book your order :
 ![Image](https://www.linkpicture.com/q/frame_16.png)
 
 
+![wireframe](https://github.com/wasfy97/my-restaurant/assets/131155970/94e7661c-e583-45e0-9b0f-b7f893c70ee4)
