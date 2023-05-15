@@ -1,0 +1,51 @@
+* {
+    padding 0;
+    margin 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgba(3, 24, 24, 0.295);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header ul {
+    display: flex;
+    gap: 15px;
+}
+
+.header ul li {
+list-style: none;
+}
+
+.header li a {
+    text-decoration: none;
+}
+
+.Main{
+    background-color: beige;
+    font-family: fantasy;
+    font-size: larger;
+
+}
+
+.main2{
+    background-color: beige;
+    font-family: fantasy;
+
+}
+.image{
+    width: 500px;
+}
+
+.CopyRights {
+
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(3, 24, 24, 0.295);
+    width: 225px;
+}
